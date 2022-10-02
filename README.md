@@ -1,2 +1,3 @@
-Life sucks
-It's been always a mess
+
+
+Learning about Git and Git tools.
